@@ -55,6 +55,7 @@ public class Note {
 		this.title = title;
 		this.content = content;
 		this.addedDate = addedDate;
+		System.out.println("hello");
 	}
 	
 	
